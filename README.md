@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luqmaan
 
-I'm a data analyst with a background in consulting, specialising in transforming raw data into clear, actionable insights.
+An aspiring data analyst with a background in consulting.
 
 ---
 
