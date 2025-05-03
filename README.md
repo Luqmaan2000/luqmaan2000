@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Luqmaan
 
-<!--
-**Luqmaan2000/luqmaan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in consulting, specialising in transforming raw data into clear, actionable insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+- 📊 2.5 years of experience in consulting & business data analysis
+- 🛠️ Skilled in Python, SQL, Excel, Power BI, ETL, and automation
+- 🚀 Currently building a portfolio of real-world data projects to pivot into analytics and data science roles
+- 📍 Based in London, UK
+
+---
+
+## 💼 Portfolio Projects
+
+### [ETL Retail Sales Pipeline](https://github.com/Luqmaan2000/etl-retail-sales-pipeline)
+> Automated data pipeline using Python, pandas, and SQLite  
+> - Kaggle API integration  
+> - Data cleaning, transformation, and feature engineering  
+> - SQL-based analytics and summarisation
+
+### A/B Testing Project *(Coming soon)*
+> Will include simulation of test vs. control group analysis using Python and SQL
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages**: Python, SQL, DAX
+- **Tools**: pandas, Power BI, Excel, matplotlib, sqlite3, Git/GitHub, VS Code
+- **Data Ops**: ETL, data cleaning, automation, KPI dashboards, A/B testing
+
+---
+
