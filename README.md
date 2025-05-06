@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luqmaan
+# 👋 Luqmaan's Projects
 
 An aspiring data analyst with a background in consulting.
 
