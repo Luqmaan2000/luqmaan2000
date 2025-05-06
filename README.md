@@ -21,15 +21,17 @@ An aspiring data analyst with a background in consulting.
 > - Data cleaning, transformation, and feature engineering  
 > - SQL-based analytics and summarisation
 
-### A/B Testing Project *(Coming soon)*
-> Will include simulation of test vs. control group analysis using Python and SQL
+### [A/B Testing Project](https://github.com/Luqmaan2000/A-B-Testing-experimental-analysis)
+>  Simulated and analyzed an A/B test using Python.
+> Includes statistical tests (z-test), business insights, and a clear conclusion based on conversion metrics.
+
 
 ---
 
 ## 🧰 Tech Stack
 
 - **Languages**: Python, SQL, DAX
-- **Tools**: pandas, Power BI, Excel, matplotlib, sqlite3, Git/GitHub, VS Code
+- **Tools**: pandas, numpy, Power BI, Excel, matplotlib, sqlite3, Git/GitHub, VS Code
 - **Data Ops**: ETL, data cleaning, automation, KPI dashboards, A/B testing
 
 ---
