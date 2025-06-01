@@ -15,6 +15,12 @@ An aspiring data analyst with a background in consulting.
 
 ## 💼 Portfolio Projects
 
+### [Ecommerce Analytics Pipeline](https://github.com/Luqmaan2000/ecommerce-analytics-pipeline)
+> - Extracted data from CSV's
+> - Pulled real-time currency exchange rates via API
+> - Created SQLite database and queried data
+> - Exported final dataset into Power BI for data visualisation
+
 ### [Marketing Analytics Performance Analysis](https://github.com/Luqmaan2000/marketing-analytics-performance-analyst)
 > - Simulated multi-channel user journeys to analyze conversion behavior and drop-off patterns  
 > - Built a funnel analysis to measure touchpoints before conversion and segment users  
